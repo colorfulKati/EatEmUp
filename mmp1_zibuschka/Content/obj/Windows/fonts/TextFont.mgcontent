@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/fonts/TextFont</SourceFile>
+  <SourceTime>2016-05-04T21:27:56.9663866+02:00</SourceTime>
+  <DestFile>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/bin/Windows/fonts/TextFont.xnb</DestFile>
+  <DestTime>2016-05-04T21:28:27.8139141+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

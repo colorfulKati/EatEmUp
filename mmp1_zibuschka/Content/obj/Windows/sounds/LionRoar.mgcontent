@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/sounds/LionRoar.wav</SourceFile>
+  <SourceTime>2016-05-15T17:21:27.7551301+02:00</SourceTime>
+  <DestFile>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/bin/Windows/sounds/LionRoar.xnb</DestFile>
+  <DestTime>2016-05-15T17:47:41.1807208+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/gazelle.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/lion.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/lionShoes.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/leaf.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/platformLong.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/platformMedium.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/platformReallyLong.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/platformReallyReallyLong.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/platformShort.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/fonts/TextFont</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/bush.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/shoes.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/MainMenuGazelleLeft.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/MainMenuGazelleRight.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/buttonCredits.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/buttonStartGame.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/buttonSwapRoles.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/buttonResume.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/Credits.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/buttonMainMenu.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/Pause.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/WinnerGazelle.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/images/WinnerLion.png</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/sounds/GazelleMunch.wav</File>
+    <File>C:/Users/Katrin-Anna/Studium/MMP1/zibuschka_mmp1/mmp1_zibuschka/Content/sounds/LionRoar.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
