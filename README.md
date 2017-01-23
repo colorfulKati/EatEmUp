@@ -1,1 +1,1 @@
-"# EatEmUp" 
+Eat 'Em Up is a student project made during studies at the University of Applied Sciences Salzburg by Katrin-Anna Zibuschka. Copyright by University of Applied Sciences Salzburg, MultiMediaTechnology and Katrin-Anna Zibuschka. Portfolio: https://portfolio.multimediatechnology.at/projects/2016-eat-em-up.  Implementation in C# using the MonoGame framework. Design by Katrin-Anna Zibuschka. Graphics by Ulli Rockinger (https://www.xing.com/profile/Ulli_Rockinger). All sounds and fonts are used under the Creative Common Licence. 
